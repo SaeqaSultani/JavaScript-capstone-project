@@ -9,7 +9,7 @@ const dataUi = (element) => {
                             <div class="dec">
                                 <h1 class="title">${element.strMeal}</h1>
                                 <div class="like">
-                                    <button id=${element.idMeal} onclick="like(this)" class="like-button">0</button>
+                                    <button id=${element.idMeal} onclick="like(this)" class="like-button"></button>
                                     <p class="cunter">${parseInt(0,countLikes())}</p>
                                 </div>
                             </div>

@@ -1,13 +1,11 @@
 import './index.css';
 import './index.scss';
-import countData from './modules/countData';
 import dataUi from './modules/dataUi';
 import getData from './modules/getData';
 import getLike from './modules/getLike';
 import postData from './modules/postData';
 
 
-countData();
 
 const loadData = async () => {
     const data = await getData();

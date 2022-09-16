@@ -101,16 +101,12 @@ body {
     align-items: center;
   }
 
-  .heart{
-    width: 30px;
-    height: 30px;
-  }
-
   .title{
     font-weight: bold;
     font-family: Poppins, sans-serif;
     font-size: 35px;
     padding: 15px;
+    margin-top: 10px;
   }
 
   .footer {
