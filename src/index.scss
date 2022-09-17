@@ -1,0 +1,36 @@
+$red: #ff3252;
+
+.like-button {
+  display: inline-block;
+  position: relative;
+  font-size: 20px;
+  width: 10px;
+  cursor: pointer;
+  // border: 1px solid black;
+  height: 0;
+
+  &::before {
+    font-size: 3em;
+    color: #000;
+    content: '♥';
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  &::after {
+    font-size: 3em;
+    color: $red;
+    content: '♥';
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    transition: transform 0.2s;
+  }
+
+  &.liked::after {
+    transform: translate(-50%, -50%) scale(1.1);
+  }
+}
