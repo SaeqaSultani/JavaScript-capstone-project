@@ -22,4 +22,3 @@ window.like = (e) => {
 
   postData(e.id);
 };
-
