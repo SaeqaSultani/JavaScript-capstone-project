@@ -17,6 +17,12 @@ this is a webpack project that the purpose of this project is to understand how 
 - And finally starting the app. (that will be npm start) 
 
 
+# Video Link :)
+
+[Video Link](https://www.loom.com/share/8e56755bcdd04a5cb4874bf0eaa3c612)
+
+
+
 # Live Demo :)
 
 [Live Demo Link](https://saeqasultani.github.io/Leaderboard/)
@@ -34,7 +40,7 @@ LinkedIn: [SaeqaSultani](https://www.linkedin.com/in/saeqa-sultani-b41493187/)
 # 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/SaeqaSultani/Leaderboard/issues).
+Feel free to check the [issues page](https://github.com/SaeqaSultani/JavaScript-capstone-project/issues).
 
 # Show your support
 Give a ⭐️ if you like this project!
