@@ -1,6 +1,5 @@
 $red: #ff3252;
 
-
 .like-button {
   display: inline-block;
   position: relative;
@@ -17,6 +16,7 @@ $red: #ff3252;
     top: 50%;
     transform: translate(-50%, -50%);
   }
+
   &::after {
     font-size: 3em;
     color: $red;
@@ -27,6 +27,7 @@ $red: #ff3252;
     transform: translate(-50%, -50%) scale(0);
     transition: transform 0.2s;
   }
+
   &.liked::after {
     transform: translate(-50%, -50%) scale(1.1);
   }
