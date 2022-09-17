@@ -7,6 +7,9 @@ $red: #ff3252;
   width: 10px;
   cursor: pointer;
   // border: 1px solid black;
+  height: 0px;
+  width: 20px;
+  cursor: pointer;
   &::before {
     font-size: 3em;
     color: #000;
@@ -27,7 +30,6 @@ $red: #ff3252;
     transform: translate(-50%, -50%) scale(0);
     transition: transform 0.2s;
   }
-
   &.liked::after {
     transform: translate(-50%, -50%) scale(1.1);
   }

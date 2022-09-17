@@ -1,10 +1,12 @@
 import getLike from './getLike.js';
+import countLikes from "./countLikes";
 
 const context = document.getElementById('context');
 
 const dataUi = (element) => {
   // console.log(element.idMeal);
-  context.innerHTML += `
+    context.innerHTML += `
+
                     <div class="items">
                             <img class="img" src="${element.strMealThumb}" alt="logo">
                             <div class="dec">
