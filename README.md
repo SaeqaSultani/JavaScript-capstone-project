@@ -25,7 +25,7 @@ this is a webpack project that the purpose of this project is to understand how 
 
 # Live Demo :)
 
-[Live Demo Link](https://saeqasultani.github.io/Leaderboard/)
+[Live Demo Link](https://saeqasultani.github.io/JavaScript-capstone-project/)
 
 # Authors
 
