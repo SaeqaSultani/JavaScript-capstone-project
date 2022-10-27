@@ -1,7 +1,7 @@
-# JavaScript-capstone-project
+# JavaScript-capstone-project(Chef't pot)
 this is a webpack project that the purpose of this project is to understand how use JavaScript to make websites dynamic and build basic single page apps,use ES6 syntax,use ES6 modules,use callbacks and promises,use webpack,apply JavaScript best practices and language style guides in code,use AAA pattern for unit tests,write units tests for a JavaScript appfollow Gitflow,solve simple git conflicts,send and receive data from an API,use API documentation,nderstand and use JSON,make JavaScript code asynchronous,perform a code review for a team member.
 
-![MyImage](./src/images/screenShot.png)
+![java script](https://user-images.githubusercontent.com/74806645/198382308-0a279955-2080-4799-bd6d-3508bb9a8b5b.png)
 
 # Built With
 - HTML
