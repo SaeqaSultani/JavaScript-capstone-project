@@ -21,8 +21,6 @@ this is a webpack project that the purpose of this project is to understand how 
 
 [Video Link](https://www.loom.com/share/8e56755bcdd04a5cb4874bf0eaa3c612)
 
-
-
 # Live Demo :)
 
 [Live Demo Link](https://saeqasultani.github.io/JavaScript-capstone-project/)
