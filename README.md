@@ -16,7 +16,6 @@ this is a webpack project that the purpose of this project is to understand how 
 - installing the npm packages (npm install)
 - And finally starting the app. (that will be npm start) 
 
-
 # Video Link :)
 
 [Video Link](https://www.loom.com/share/8e56755bcdd04a5cb4874bf0eaa3c612)
